@@ -1,7 +1,9 @@
+package TugasP2;
+
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Latihan2 {
+public class Tugas1 {
     public static void main(String args[]) {
 
         Scanner input = new Scanner(System.in).useLocale(Locale.US);

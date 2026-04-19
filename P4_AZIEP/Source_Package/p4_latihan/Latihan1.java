@@ -1,3 +1,5 @@
+package p4_latihan;
+
 import java.util.Scanner;
 
 public class Latihan1 {

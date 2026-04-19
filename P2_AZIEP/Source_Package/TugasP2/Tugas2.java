@@ -1,6 +1,8 @@
+package TugasP2;
+
 import java.util.Scanner;
 
-public class Latihan3 {
+public class Tugas2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
