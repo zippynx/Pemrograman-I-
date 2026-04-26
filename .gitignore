@@ -1,0 +1,31 @@
+# vscode
+.vscode/
+
+# NetBeans & Maven specific
+**/nbproject/private/
+**/build/
+**/dist/
+**/target/
+**/nbbin/
+*.xml.log
+nbactions.xml
+nb-configuration.xml
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+replay_pid*
