@@ -12,25 +12,4 @@ Repositori ini berisi kumpulan tugas praktikum mata kuliah **Pemrograman 1** yan
 
 ---
 
-## Struktur Repositori
-Setiap folder atau package merepresentasikan tugas berdasarkan pertemuan.
-
-Proyek ini disusun menggunakan struktur **Maven** agar lebih terorganisir serta dapat dijalankan di berbagai IDE (*IDE-agnostic*).
-
-Contoh struktur:
-- `p2_AziepMusa`
-- `p4_AziepMusa`
-- dan seterusnya  
-
-Setiap folder berisi *source code* Java sesuai dengan materi pada pertemuan terkait.
-
----
-
-## Cara Menjalankan
-1. Clone repositori ini
-2. Buka menggunakan IDE (NetBeans / IntelliJ / VS Code)
-3. Jalankan file `.java` sesuai pertemuan yang diinginkan
-
----
-
  *Repositori ini dibuat sebagai dokumentasi dan arsip pembelajaran selama mengikuti mata kuliah Pemrograman 1.*
