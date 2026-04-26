@@ -1,13 +1,15 @@
-# Tugas Pemrograman 1
+#  Arsip Tugas Mata Kuliah Pemrograman 1
 
-Repositori ini berisi kumpulan tugas praktikum mata kuliah **Pemrograman 1** yang dikerjakan selama satu semester, mencakup materi dari pertemuan 2 hingga pertemuan 8.
+Repositori ini berisi kumpulan hasil praktikum dari mata kuliah **Pemrograman 1** yang dikerjakan selama satu semester.  
+Materi yang dibahas mencakup pertemuan ke-2 sampai dengan pertemuan ke-8, mulai dari dasar pemrograman hingga penerapan logika sederhana dalam Java.
 
 ---
 
-##  Identitas
+##  Informasi Mahasiswa
+
 - **Nama:** M. Aziep Musafira  
 - **Kelas:** 04TPLP008  
-- **Institusi:** Universitas Pamulang (UNPAM)
+- **Universitas:** Universitas Pamulang (UNPAM)  
 - **Dosen Pengampu:** NIKI RATAMA, M.Kom  
 
 ---
