@@ -13,6 +13,7 @@ public class CheckoutSystem {
 
         if (totalBelanja < 0) {
             System.out.println("Input tidak valid!");
+            input.close();
             return;
         }
 
