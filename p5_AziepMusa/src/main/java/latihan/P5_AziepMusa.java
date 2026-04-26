@@ -22,6 +22,7 @@ public class P5_AziepMusa {
         System.out.println("--- 1. Cek Status Akun ---");
         if (!akunAktif) {
             System.out.println("Sistem: Akun tidak aktif! Transaksi dibatalkan.");
+            input.close();
             return;
         } else {
             System.out.println("Sistem: Akun aktif.");
